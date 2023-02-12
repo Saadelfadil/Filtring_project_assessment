@@ -2,6 +2,8 @@ Running the Project
 
 To run this project, follow these steps:
 
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
+
 Navigate to the backend folder and run npm start in the command line. This will start the Node.js server and connect it to the MongoDB database.
 
 Navigate to the client folder and run npm start. This will start the React.js frontend and connect it to the Node.js server.
