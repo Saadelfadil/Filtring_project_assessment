@@ -11,6 +11,8 @@ Navigate to the `backend` folder and run npm start in the command line. This wil
   <img src="/Users/mcadmin/Desktop/Filtring_project_assessment/readme_assests/cd_backend" width="350" alt="accessibility text">
 </p>
 
+![My animated logo](readme_assests/cd_backend.jpg)
+
 ![Alt text](/readme_assests/start_backend.jpg?raw=true "Title")
 Navigate to the client folder and run npm start. This will start the React.js frontend and connect it to the Node.js server.
 
