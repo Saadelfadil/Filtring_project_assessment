@@ -17,3 +17,7 @@ Navigate to the client folder and run npm start. This will start the React.js fr
 
 
 Your website should now be up and running at http://localhost:3000/. Enjoy!
+
+<img width="1463" alt="page1" src="https://user-images.githubusercontent.com/59081484/218329090-f45cc21d-fbd4-45a8-beee-e19766ad44e6.png">
+
+<img width="1405" alt="page2" src="https://user-images.githubusercontent.com/59081484/218329101-982a79ba-4294-446f-b3a9-e99a459cc404.png">
